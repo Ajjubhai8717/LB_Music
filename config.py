@@ -11,7 +11,7 @@ API_ID = int(getenv("API_ID", "27018175"))
 API_HASH = getenv("API_HASH", "9726271ce98f126cebea0d4758edc88d")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", None)
+BOT_TOKEN = getenv("BOT_TOKEN", "6823089678:AAGg4ObgffxnA9ysxW2PXxVYrZRi3fiOOQo")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://chomuchot:marin@akuma.6zp9apt.mongodb.net/?retryWrites=true&w=majority&appName=Akuma" )
@@ -61,7 +61,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @StringFatherBot on Telegram
-STRING1 = getenv("STRING_SESSION", None)
+STRING1 = getenv("STRING_SESSION", "BQGcQ78ApHRQydE8wCvcIEQW6EkzHZ89T39MablonNII0yXqczniWbaXslG3Zla1DOAZK9PZVg7x5HPRguHseZV5qmPJGD2edXgHrNkP8xcNyBBjvdnaDx4F3kkEZlfK7BE9tBXmHBkoP4wrYaYwfKG6qgqWD2LOzBXGh4XoJGhqvz2M3D_g5strtW2_P66v5OUCMlEqim7d-9FAtW57VKbYMmS-zTd7vqJvfJlaJ2tlJKJ4RP2yiFIYKdeaODzZekcrq97-Q9Vl_nVlfhun3Xo5nQVsyrOF8ntYMrMBpl2um8TYY4m4nkA9HyjgaV0yY7a0FDcxr-DCXzvVxKX3ke4qdQy0iAAAAAHT4YAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
